@@ -9,3 +9,6 @@ navigation-top, .menu {
 	-webkit-box-shadow: none !important;
 	box-shadow: none !important;
 }
+navigation-top, .menu {
+    background-color: none !important;
+}
