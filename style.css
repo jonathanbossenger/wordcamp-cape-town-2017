@@ -12,3 +12,7 @@ navigation-top, .menu {
 navigation-top, .menu {
     background-color: #fff !important;
 }
+.single-featured-image-header {
+	max-width: 1000px;
+        margin: 0 auto;
+}
