@@ -5,12 +5,12 @@
 navigation-top, .menu {
 	background-color: #DEA293;
 }
-.entry-content a {
-	-webkit-box-shadow: none !important;
-	box-shadow: none !important;
+#tix-attendees a {
+	-webkit-box-shadow: none;
+	box-shadow: none;
 }
 navigation-top, .menu {
-    background-color: #fff !important;
+    background-color: #fff;
 }
 .single-featured-image-header {
 	max-width: 1000px;
