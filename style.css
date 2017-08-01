@@ -1,7 +1,8 @@
-/*.custom-header {
+.custom-header {
 	height: 319px;
 	width: 100%;
-}*/
+}
+/*
 #wp-custom-header {
     background-image: url(https://2017.capetown.wordcamp.org/files/2017/06/Header-Image.jpg);
     width: 100%;
@@ -10,6 +11,7 @@
 #wp-custom-header img {
     display:none;	
 }
+*/
 navigation-top, .menu {
 	background-color: #DEA293;
 }
