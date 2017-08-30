@@ -36,3 +36,19 @@ navigation-top, .menu {
 	max-width: 1000px;
 	margin: 0 auto;
 }
+
+#book-button {
+	display: block;
+	padding: 1em 0;
+	background: #ae9531;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	border-radius: 300px;
+}
+
+#book-button:hover {
+	background: #000;
+}
