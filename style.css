@@ -58,7 +58,7 @@ navigation-top, .menu {
 }
 
 .menu-item-582 a {
-  color: #fff;
+  color: #fff !important; 
 }
 
 .menu-item-582:hover {
