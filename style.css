@@ -53,3 +53,14 @@ navigation-top, .menu {
 	background: hsl( 25, 50%, 46% );
 }
 
+.menu-item-582 {
+  background: hsl( 25, 50%, 13% );
+}
+
+.menu-item-582 a {
+  color: #fff;
+}
+
+.menu-item-582:hover {
+	background: hsl( 25, 50%, 46% );
+}
