@@ -40,7 +40,7 @@ navigation-top, .menu {
 #book-button {
 	display: block;
 	padding: 1em 0;
-	background: #ae9531;
+	background: hsl( 25, 50%, 13% );
 	color: #fff;
 	text-align: center;
 	font-weight: bold;
@@ -50,5 +50,6 @@ navigation-top, .menu {
 }
 
 #book-button:hover {
-	background: #000;
+	background: hsl( 25, 50%, 46% );
 }
+
